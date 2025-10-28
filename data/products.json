@@ -1,0 +1,415 @@
+{
+  "categories": [
+    {
+      "id": "power-station",
+      "name": "Power Station",
+      "description": "Generator listrik portable Bluetti resmi untuk rumah, bisnis, dan perjalanan.",
+      "products": [
+        {
+          "name": "Bluetti EB3A",
+          "image": "https://cdn.pixabay.com/photo/2022/07/03/14/52/power-station-7299839_1280.jpg",
+          "capacityWh": 268,
+          "outputW": 600,
+          "surgeW": 1200,
+          "ports": "2x AC, 1x DC 12V, 2x USB-A, 1x USB-C 100W, 1x car port",
+          "recharge": "AC 350W, PV 200W, car 12V, generator",
+          "rechargeTime": "0-80% dalam 30 menit (turbo)",
+          "weight": "4.6 kg",
+          "dimension": "255 x 180 x 183 mm",
+          "highlights": [
+            "Ideal untuk darurat ringan, modem, lampu, dan gadget",
+            "App control Bluetti untuk monitoring jarak jauh",
+            "Mode UPS rumah untuk menjaga perangkat tetap menyala"
+          ],
+          "scenarios": "Rumah tangga, kost, mobile workstation",
+          "warranty": "Garansi Resmi Bluetti 24 bulan",
+          "ctaBuy": "https://wa.me/6281234567890?text=Halo%20Jevindo%2C%20saya%20ingin%20membeli%20Bluetti%20EB3A",
+          "ctaConsult": "https://wa.me/6281234567890?text=Halo%20Jevindo%2C%20mohon%20rekomendasi%20power%20station",
+          "featured": true
+        },
+        {
+          "name": "Bluetti AC60",
+          "image": "https://cdn.pixabay.com/photo/2021/06/14/21/00/power-station-6337719_1280.jpg",
+          "capacityWh": 403,
+          "outputW": 600,
+          "surgeW": 1200,
+          "ports": "2x AC, 1x DC 12V, 2x USB-A, 1x USB-C 100W",
+          "recharge": "AC 600W, PV 200W, car 12V",
+          "rechargeTime": "0-100% dalam 1 jam (AC turbo)",
+          "weight": "8.6 kg",
+          "dimension": "290 x 205 x 234 mm",
+          "highlights": [
+            "Tahan percikan air IP65, cocok outdoor",
+            "Dapat dikombinasikan dengan modul baterai B80",
+            "Teknologi LiFePO4 awet hingga 3500 siklus"
+          ],
+          "scenarios": "Camping, usaha kuliner outdoor, caravan",
+          "warranty": "Garansi Resmi Bluetti 48 bulan",
+          "ctaBuy": "https://wa.me/6281234567890?text=Halo%20Jevindo%2C%20saya%20ingin%20membeli%20Bluetti%20AC60",
+          "ctaConsult": "https://wa.me/6281234567890?text=Halo%20Jevindo%2C%20tolong%20rekomendasikan%20AC60",
+          "featured": true
+        },
+        {
+          "name": "Bluetti AC180",
+          "image": "https://cdn.pixabay.com/photo/2021/12/07/15/55/battery-6853513_1280.jpg",
+          "capacityWh": 1152,
+          "outputW": 1800,
+          "surgeW": 2700,
+          "ports": "4x AC, 1x DC 12V, 4x USB-A, 1x USB-C 100W",
+          "recharge": "AC 1440W, PV 500W, car 12V/24V",
+          "rechargeTime": "0-80% dalam 45 menit",
+          "weight": "17 kg",
+          "dimension": "423 x 280 x 312 mm",
+          "highlights": [
+            "Kapasitas 1152 Wh, output 1800 W stabil",
+            "Mendukung UPS 20 ms untuk backup rumah",
+            "Pengisian AC turbo dan dukungan panel surya"
+          ],
+          "scenarios": "Rumah, UMKM, workstation multimedia",
+          "warranty": "Garansi Resmi Bluetti 48 bulan",
+          "ctaBuy": "https://wa.me/6281234567890?text=Halo%20Jevindo%2C%20saya%20ingin%20membeli%20Bluetti%20AC180",
+          "ctaConsult": "https://wa.me/6281234567890?text=Halo%20Jevindo%2C%20tolong%20rekomendasikan%20model%20AC180",
+          "featured": true
+        },
+        {
+          "name": "Bluetti AC200MAX",
+          "image": "https://cdn.pixabay.com/photo/2020/09/06/19/07/power-5550333_1280.jpg",
+          "capacityWh": 2048,
+          "outputW": 2200,
+          "surgeW": 4800,
+          "ports": "6x AC, 1x DC 12V, 4x USB-A, 1x USB-C 100W, RV port",
+          "recharge": "AC 1400W, PV 900W, car 12V/24V",
+          "rechargeTime": "0-100% dalam 2 jam (AC dual)",
+          "weight": "28.1 kg",
+          "dimension": "420 x 280 x 386 mm",
+          "highlights": [
+            "Modular hingga 8192 Wh dengan B230/B300",
+            "Output tinggi untuk peralatan berat",
+            "Layar sentuh dan aplikasi pemantauan"
+          ],
+          "scenarios": "Rumah, kantor, UMKM, studio",
+          "warranty": "Garansi Resmi Bluetti 48 bulan",
+          "ctaBuy": "https://wa.me/6281234567890?text=Halo%20Jevindo%2C%20saya%20ingin%20membeli%20Bluetti%20AC200MAX",
+          "ctaConsult": "https://wa.me/6281234567890?text=Halo%20Jevindo%2C%20tolong%20rekomendasikan%20AC200MAX",
+          "featured": true
+        },
+        {
+          "name": "Bluetti AC300 + B300",
+          "image": "https://cdn.pixabay.com/photo/2017/10/24/20/06/battery-2887357_1280.jpg",
+          "capacityWh": 3072,
+          "outputW": 3000,
+          "surgeW": 6000,
+          "ports": "4x AC, 1x DC 12V, 4x USB-A, 1x USB-C 100W, RV port",
+          "recharge": "AC 3000W, PV 2400W, EV station",
+          "rechargeTime": "0-100% dalam 1.5 jam (AC dual)",
+          "weight": "21.6 kg (AC300) + 36.1 kg (B300)",
+          "dimension": "520 x 320 x 358 mm",
+          "highlights": [
+            "Sistem modular premium untuk rumah",
+            "Smart home panel kompatibel",
+            "Dukungan ekspansi hingga 12288 Wh"
+          ],
+          "scenarios": "Rumah besar, kantor, event",
+          "warranty": "Garansi Resmi Bluetti 48 bulan",
+          "ctaBuy": "https://wa.me/6281234567890?text=Halo%20Jevindo%2C%20saya%20ingin%20membeli%20Bluetti%20AC300%20%2B%20B300",
+          "ctaConsult": "https://wa.me/6281234567890?text=Halo%20Jevindo%2C%20tolong%20rekomendasikan%20AC300",
+          "featured": false
+        },
+        {
+          "name": "Bluetti AC500 + B300S",
+          "image": "https://cdn.pixabay.com/photo/2018/09/09/13/27/battery-3661695_1280.jpg",
+          "capacityWh": 3072,
+          "outputW": 5000,
+          "surgeW": 10000,
+          "ports": "6x AC, 1x DC 12V, 4x USB-A, 2x USB-C 100W, RV port",
+          "recharge": "AC 5000W, PV 3000W, EV station",
+          "rechargeTime": "0-100% dalam 1.2 jam (AC dual)",
+          "weight": "30.6 kg (AC500) + 38 kg (B300S)",
+          "dimension": "520 x 320 x 358 mm",
+          "highlights": [
+            "Output 5000 W untuk industri ringan",
+            "Ekspansi hingga 18432 Wh",
+            "Integrasi cerdas dengan aplikasi"
+          ],
+          "scenarios": "Industri, event besar, data center kecil",
+          "warranty": "Garansi Resmi Bluetti 60 bulan",
+          "ctaBuy": "https://wa.me/6281234567890?text=Halo%20Jevindo%2C%20saya%20ingin%20membeli%20Bluetti%20AC500",
+          "ctaConsult": "https://wa.me/6281234567890?text=Halo%20Jevindo%2C%20tolong%20rekomendasikan%20AC500",
+          "featured": false
+        }
+      ]
+    },
+    {
+      "id": "solar-panel",
+      "name": "Panel Surya",
+      "description": "Panel surya portabel Bluetti untuk charging cepat dan efisiensi tinggi.",
+      "products": [
+        {
+          "name": "Bluetti PV120",
+          "image": "https://cdn.pixabay.com/photo/2018/01/21/15/06/solar-panel-3097419_1280.jpg",
+          "capacityWh": 120,
+          "outputW": 120,
+          "surgeW": 0,
+          "ports": "MC4",
+          "recharge": "PV untuk semua power station kompatibel",
+          "rechargeTime": "Tergantung intensitas matahari",
+          "weight": "5.7 kg",
+          "dimension": "1652 x 420 mm (terbuka)",
+          "highlights": [
+            "Efisiensi 23.4% untuk outdoor",
+            "Tahan percikan air IP65",
+            "Desain lipat mudah dibawa"
+          ],
+          "scenarios": "Camping, caravan, backup rumah",
+          "warranty": "Garansi Resmi Bluetti 24 bulan",
+          "ctaBuy": "https://wa.me/6281234567890?text=Halo%20Jevindo%2C%20saya%20ingin%20membeli%20Bluetti%20PV120",
+          "ctaConsult": "https://wa.me/6281234567890?text=Halo%20Jevindo%2C%20tolong%20rekomendasikan%20PV120",
+          "featured": true
+        },
+        {
+          "name": "Bluetti PV200",
+          "image": "https://cdn.pixabay.com/photo/2017/02/01/10/33/solar-panel-2025869_1280.jpg",
+          "capacityWh": 200,
+          "outputW": 200,
+          "surgeW": 0,
+          "ports": "MC4",
+          "recharge": "PV untuk AC180, AC200MAX, EB70, dan lainnya",
+          "rechargeTime": "Tergantung intensitas matahari",
+          "weight": "7.3 kg",
+          "dimension": "2265 x 630 mm (terbuka)",
+          "highlights": [
+            "Panel lipat portabel 200 W",
+            "Lapisan ETFE tahan cuaca",
+            "Kaki penyangga multi sudut"
+          ],
+          "scenarios": "Off-grid cabin, event outdoor, darurat",
+          "warranty": "Garansi Resmi Bluetti 24 bulan",
+          "ctaBuy": "https://wa.me/6281234567890?text=Halo%20Jevindo%2C%20saya%20ingin%20membeli%20Bluetti%20PV200",
+          "ctaConsult": "https://wa.me/6281234567890?text=Halo%20Jevindo%2C%20tolong%20rekomendasikan%20PV200",
+          "featured": true
+        },
+        {
+          "name": "Bluetti PV350",
+          "image": "https://cdn.pixabay.com/photo/2016/11/29/02/32/solar-energy-1869941_1280.jpg",
+          "capacityWh": 350,
+          "outputW": 350,
+          "surgeW": 0,
+          "ports": "MC4",
+          "recharge": "PV untuk AC200MAX, AC300, AC500",
+          "rechargeTime": "Tergantung intensitas matahari",
+          "weight": "13.9 kg",
+          "dimension": "2400 x 900 mm (terbuka)",
+          "highlights": [
+            "Kapasitas 350 W untuk charging cepat",
+            "Lapisan ETFE anti gores",
+            "Mudah dilipat dengan tas jinjing"
+          ],
+          "scenarios": "Rumah, UMKM, event outdoor",
+          "warranty": "Garansi Resmi Bluetti 24 bulan",
+          "ctaBuy": "https://wa.me/6281234567890?text=Halo%20Jevindo%2C%20saya%20ingin%20membeli%20Bluetti%20PV350",
+          "ctaConsult": "https://wa.me/6281234567890?text=Halo%20Jevindo%2C%20tolong%20rekomendasikan%20PV350",
+          "featured": false
+        }
+      ]
+    },
+    {
+      "id": "battery-module",
+      "name": "Modul Baterai",
+      "description": "Ekspansi kapasitas Bluetti resmi untuk skala besar.",
+      "products": [
+        {
+          "name": "Bluetti B230",
+          "image": "https://cdn.pixabay.com/photo/2014/02/05/19/24/battery-259477_1280.jpg",
+          "capacityWh": 2048,
+          "outputW": 0,
+          "surgeW": 0,
+          "ports": "USB-C 100W, USB-A, car port",
+          "recharge": "AC 500W, PV 200W, car 12V",
+          "rechargeTime": "0-100% dalam 6-7 jam (AC)",
+          "weight": "21.8 kg",
+          "dimension": "420 x 280 x 227 mm",
+          "highlights": [
+            "Tambah kapasitas AC200MAX hingga 8192 Wh",
+            "Port DC mandiri untuk perangkat tambahan",
+            "Baterai LiFePO4 aman dan tahan lama"
+          ],
+          "scenarios": "Rumah, UMKM, backup industri",
+          "warranty": "Garansi Resmi Bluetti 48 bulan",
+          "ctaBuy": "https://wa.me/6281234567890?text=Halo%20Jevindo%2C%20saya%20ingin%20membeli%20Bluetti%20B230",
+          "ctaConsult": "https://wa.me/6281234567890?text=Halo%20Jevindo%2C%20tolong%20rekomendasikan%20B230",
+          "featured": false
+        },
+        {
+          "name": "Bluetti B300",
+          "image": "https://cdn.pixabay.com/photo/2016/03/05/19/45/energy-1236245_1280.jpg",
+          "capacityWh": 3072,
+          "outputW": 0,
+          "surgeW": 0,
+          "ports": "USB-C 100W, USB-A, car port",
+          "recharge": "AC 500W, PV 200W, car 12V",
+          "rechargeTime": "0-100% dalam 7-8 jam (AC)",
+          "weight": "36.1 kg",
+          "dimension": "520 x 320 x 267 mm",
+          "highlights": [
+            "Ekspansi AC300 hingga 12288 Wh",
+            "Port DC mandiri untuk perangkat tambahan",
+            "Baterai LiFePO4 dengan siklus panjang"
+          ],
+          "scenarios": "Rumah besar, kantor, gudang",
+          "warranty": "Garansi Resmi Bluetti 48 bulan",
+          "ctaBuy": "https://wa.me/6281234567890?text=Halo%20Jevindo%2C%20saya%20ingin%20membeli%20Bluetti%20B300",
+          "ctaConsult": "https://wa.me/6281234567890?text=Halo%20Jevindo%2C%20tolong%20rekomendasikan%20B300",
+          "featured": false
+        },
+        {
+          "name": "Bluetti B300S",
+          "image": "https://cdn.pixabay.com/photo/2015/05/15/14/49/battery-768697_1280.jpg",
+          "capacityWh": 3072,
+          "outputW": 0,
+          "surgeW": 0,
+          "ports": "USB-C 100W, USB-A, car port",
+          "recharge": "AC 500W, PV 200W, car 12V",
+          "rechargeTime": "0-100% dalam 7-8 jam (AC)",
+          "weight": "38 kg",
+          "dimension": "520 x 320 x 267 mm",
+          "highlights": [
+            "Optimal untuk AC500 dengan pemanas baterai",
+            "Port DC terintegrasi untuk perangkat",
+            "Teknologi anti beku untuk cuaca ekstrem"
+          ],
+          "scenarios": "Industri, event besar, backup server",
+          "warranty": "Garansi Resmi Bluetti 60 bulan",
+          "ctaBuy": "https://wa.me/6281234567890?text=Halo%20Jevindo%2C%20saya%20ingin%20membeli%20Bluetti%20B300S",
+          "ctaConsult": "https://wa.me/6281234567890?text=Halo%20Jevindo%2C%20tolong%20rekomendasikan%20B300S",
+          "featured": false
+        }
+      ]
+    },
+    {
+      "id": "accessories",
+      "name": "Aksesori",
+      "description": "Aksesori resmi Bluetti untuk instalasi lengkap.",
+      "products": [
+        {
+          "name": "Kabel MC4 to XT60",
+          "image": "https://cdn.pixabay.com/photo/2016/11/19/13/08/plug-1837277_1280.jpg",
+          "capacityWh": 0,
+          "outputW": 0,
+          "surgeW": 0,
+          "ports": "MC4 ke XT60",
+          "recharge": "Kompatibel dengan semua panel Bluetti",
+          "rechargeTime": "-",
+          "weight": "0.5 kg",
+          "dimension": "2 m",
+          "highlights": [
+            "Menghubungkan panel surya ke power station",
+            "Konduktor tembaga tebal",
+            "Plug and play"
+          ],
+          "scenarios": "Instalasi panel surya rumah, outdoor",
+          "warranty": "Garansi Resmi Bluetti 12 bulan",
+          "ctaBuy": "https://wa.me/6281234567890?text=Halo%20Jevindo%2C%20saya%20ingin%20membeli%20Kabel%20MC4%20to%20XT60",
+          "ctaConsult": "https://wa.me/6281234567890?text=Halo%20Jevindo%2C%20tolong%20rekomendasikan%20aksesori",
+          "featured": false
+        },
+        {
+          "name": "Bluetti Trolley",
+          "image": "https://cdn.pixabay.com/photo/2017/03/27/13/57/luggage-2173044_1280.jpg",
+          "capacityWh": 0,
+          "outputW": 0,
+          "surgeW": 0,
+          "ports": "-",
+          "recharge": "-",
+          "rechargeTime": "-",
+          "weight": "6.5 kg",
+          "dimension": "550 x 460 x 300 mm",
+          "highlights": [
+            "Memudahkan pemindahan power station berat",
+            "Bahan aluminium kuat",
+            "Roda besar anti slip"
+          ],
+          "scenarios": "Event, kantor, gudang",
+          "warranty": "Garansi Resmi Bluetti 12 bulan",
+          "ctaBuy": "https://wa.me/6281234567890?text=Halo%20Jevindo%2C%20saya%20ingin%20membeli%20Bluetti%20Trolley",
+          "ctaConsult": "https://wa.me/6281234567890?text=Halo%20Jevindo%2C%20tolong%20rekomendasikan%20trolley",
+          "featured": false
+        },
+        {
+          "name": "Lampu DC LED",
+          "image": "https://cdn.pixabay.com/photo/2015/03/26/10/01/light-bulb-690354_1280.jpg",
+          "capacityWh": 0,
+          "outputW": 10,
+          "surgeW": 0,
+          "ports": "DC 12V",
+          "recharge": "-",
+          "rechargeTime": "-",
+          "weight": "0.3 kg",
+          "dimension": "60 x 120 mm",
+          "highlights": [
+            "Lampu hemat energi untuk camping",
+            "Kabel panjang 3 meter",
+            "Cocok dengan semua power station DC"
+          ],
+          "scenarios": "Camping, kios malam, darurat",
+          "warranty": "Garansi Resmi Bluetti 12 bulan",
+          "ctaBuy": "https://wa.me/6281234567890?text=Halo%20Jevindo%2C%20saya%20ingin%20membeli%20Lampu%20DC",
+          "ctaConsult": "https://wa.me/6281234567890?text=Halo%20Jevindo%2C%20tolong%20rekomendasikan%20Lampu%20DC",
+          "featured": false
+        }
+      ]
+    }
+  ],
+  "bundles": [
+    {
+      "name": "Rumah Hemat",
+      "description": "AC180 + PV200 untuk cadangan daya rumah tangga dan UMKM kecil.",
+      "includes": ["Bluetti AC180", "Bluetti PV200"],
+      "benefit": "Cadangan 1 kWh lebih untuk kulkas kecil dan internet",
+      "cta": "https://wa.me/6281234567890?text=Halo%20Jevindo%2C%20saya%20ingin%20paket%20AC180%20%2B%20PV200"
+    },
+    {
+      "name": "Bisnis Stabil",
+      "description": "AC200MAX + B230 + PV350 untuk operasional UMKM dan kantor kecil.",
+      "includes": ["Bluetti AC200MAX", "Bluetti B230", "Bluetti PV350"],
+      "benefit": "Daya hingga 4 kWh dengan panel surya cepat",
+      "cta": "https://wa.me/6281234567890?text=Halo%20Jevindo%2C%20saya%20ingin%20paket%20AC200MAX"
+    },
+    {
+      "name": "Rumah Mandiri Surya",
+      "description": "AC300 + 2x B300 + 2x PV350 untuk rumah mandiri energi.",
+      "includes": ["Bluetti AC300", "2x Bluetti B300", "2x Bluetti PV350"],
+      "benefit": "Cadangan hingga 12 kWh dengan solar input besar",
+      "cta": "https://wa.me/6281234567890?text=Halo%20Jevindo%2C%20saya%20ingin%20paket%20AC300"
+    }
+  ],
+  "comparison": [
+    {
+      "model": "AC60",
+      "capacity": "403 Wh",
+      "output": "600 W",
+      "solar": "200 W",
+      "weight": "8.6 kg"
+    },
+    {
+      "model": "AC180",
+      "capacity": "1152 Wh",
+      "output": "1800 W",
+      "solar": "500 W",
+      "weight": "17 kg"
+    },
+    {
+      "model": "AC200MAX",
+      "capacity": "2048 Wh",
+      "output": "2200 W",
+      "solar": "900 W",
+      "weight": "28.1 kg"
+    },
+    {
+      "model": "AC300",
+      "capacity": "3072 Wh",
+      "output": "3000 W",
+      "solar": "2400 W",
+      "weight": "21.6 kg (unit)"
+    }
+  ]
+}
